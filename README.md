@@ -37,3 +37,7 @@ Java Full Stack Developer | Spring Boot Enthusiast
 ![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash230705&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash230705&layout=compact&theme=tokyonight)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Akash230705&theme=tokyonight)
