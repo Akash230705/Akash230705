@@ -47,3 +47,6 @@ Java Full Stack Developer | Spring Boot Enthusiast
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql,hibernate,html,css,js,git,github,vscode,eclipse" />
 </p>
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=Akash230705&color=blue)
