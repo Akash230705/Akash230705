@@ -30,3 +30,10 @@ Java Full Stack Developer | Spring Boot Enthusiast
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+
+## 📊 GitHub Stats
+
+![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash230705&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash230705&layout=compact&theme=tokyonight)
