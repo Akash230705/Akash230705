@@ -41,3 +41,9 @@ Java Full Stack Developer | Spring Boot Enthusiast
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Akash230705&theme=tokyonight)
+
+## 🛠 Skills
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql,hibernate,html,css,js,git,github,vscode,eclipse" />
+</p>
